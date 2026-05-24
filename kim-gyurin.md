@@ -3,6 +3,7 @@ Year: 2001
 Genre: Film
 Disease: schizophrenia
 ICD: F20
+
 ---
 
 # Beautiful mind
