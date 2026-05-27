@@ -13,3 +13,17 @@ The work I chose is *Immortal Beloved*, a biographical film centered on the life
 # 불멸의 연인 
 
 제가 선택한 작품은 *불멸의 연인*으로, 루트비히 판 베토벤의 생애와 ‘불멸의 연인’이라는 미스터리를 중심으로 전개되는 전기 영화입니다. 이 작품은 특히 베토벤이 겪었던 진행성 청각 장애를 핵심 서사로 삼아, 소리를 잃어가는 과정 속에서도 음악을 창조해낸 내면의 고통과 집념을 그립니다. 영화에는 교향곡 제9번 「합창」 4악장 ‘환희의 송가’를 비롯해 「월광」, 「열정」 소나타 등 주요 작품이 사용되며, 그중 Ode to Joy는 인간적 고통을 넘어선 보편적 환희를 상징합니다. 줄거리는 베토벤 사후 그의 비서가 ‘불멸의 연인’의 정체를 추적하는 과정에서 여러 여성들과의 관계를 회상하는 구조로 진행됩니다. 특히 청각을 완전히 상실한 상태에서 교향곡 9번을 완성하고도 관객의 환호를 듣지 못하는 장면은, 음악이 오히려 침묵과 고립을 극적으로 드러내는 방식으로 장애를 표현한다는 점에서 인상적입니다. 이 작품은 장애가 창조성을 억압하기보다 오히려 심화시킬 수 있음을 음악을 통해 설득력 있게 보여줍니다.
+
+## 영상 링크
+
+- Riz Ahmed - “Mogambo”: https://www.youtube.com/watch?v=F-lAPR5EWAs&list=RDF-lAPR5EWAs&start_radio=1
+
+## AI 생성 이미지
+
+<img src="./mogul-mowgli-ai-image.png.png" alt="AI-generated image representing Mogul Mowgli, musical identity, and bodily vulnerability" style="width:35%;" />
+
+이 AI 생성 이미지는 무대 위에서 마이크를 든 래퍼의 모습과 병원, 면역세포, 신체의 균열을 암시하는 이미지를 함께 배치한다. 이는 “Mogambo”가 보여주는 강한 예술적 정체성과 자가면역질환으로 인해 흔들리는 몸 사이의 긴장을 시각적으로 표현한 것이다.
+
+## 관련 항목
+
+- [서태원 님의 〈잠수종과 나비〉 항목](https://github.com/hskye79/medicalhumanitiesmusic-2026-1/blob/main/seo-taewon.md): 이 항목은 질병을 겪는 인물의 주관적 경험이 음악과 음향을 통해 전달된다는 점에서 본 글과 함께 참고할 수 있다.
