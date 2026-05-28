@@ -15,7 +15,7 @@ This [series](https://www.youtube.com/watch?v=wJWksPWDKOc) was created by the En
 As dementia progresses, the album reflects the deterioration of memory by repeatedly reintroducing the same samples in altered forms, with added noise, removed instruments, and increasingly fragmented textures. The track titles also reflect this trajectory: titles such as “It’s just a burning memory,” “What does it matter how my heart breaks,” and “Temporary Bliss State” suggest the collapse of memory and emotional change.
 In this work, music serves as a medium through which the disappearance of memory and the instability of the self can be experienced aurally. Especially in the later stages, even the recurring melodies are transformed to the point of being almost unrecognizable, allowing the listener to vicariously experience the anxiety and confusion of gradually losing one’s sense of time and identity. In this respect, the work can be seen not merely as a medical description of dementia, but as an artistic representation of the confusion and loss subjectively experienced by patients. In this regard, referencing the [content of other movies](kim-nakyeon.md) may also be helpful.
 
-<img src="./lee-junhyeon.png" alt="Everywhere at the end of time" width="50%" />
+<img src="./lee-junhyeon.png" alt="AI-generated image of Everywhere at the end of time" width="50%" />
 
 # 시간의 끝 어디에서나 (*Everywhere at the end of time*)
 
