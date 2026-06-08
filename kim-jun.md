@@ -34,6 +34,8 @@ In this film, music serves as a crucial element in directly portraying the prota
 
 이처럼  Black Swan 은 음악을 통해 순수함과 어둠, 통제와 광기, 그리고 완벽주의가 초래한 정신적 붕괴를 강렬하게 표현한 작품입니다.
 
+# 장례식 곡
+
 찰리빈 웍스-우리 사랑은!
 
 이 곡을 선택한 이유는 많은 슬픔과 아픔을 경험했고, 앞으로도 경험할 청춘들에게 큰 위안을 주고 싶기 때문이다.
