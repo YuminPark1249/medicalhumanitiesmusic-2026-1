@@ -24,7 +24,7 @@ Ultimately, *I Miss the Mountains* is a song that encapsulates the dilemma of me
 
 결국 *I Miss the Mountains*는 양극성 장애 환자가 겪는 약물 치료의 딜레마와 정체성의 혼란을 담아낸 곡이다. 다이애나는 병으로 인한 고통에서 벗어나고 싶지만, 동시에 그 과정에서 잃어버린 자신의 감정과 삶의 생동감을 그리워한다. 이 노래는 음악적 대비를 통해 그러한 복잡한 심리를 설득력 있게 전달하며 관객이 다이애나의 고통과 갈등을 더욱 깊이 이해하도록 돕는다. 이 과정은 6주차 강의에서 다룬 ‘깊은 청취(Deep Listening)’ 개념과도 연결된다. 강의에서는 단순히 소리를 수동적으로 듣는 것을 넘어, 타인의 고통과 경험에 공감하며 주의를 기울여 듣는 태도를 강조했다. 이러한 깊은 청취의 실천은 HYQ Portfolio에서 최종적으로 도출한 Future Question, 즉 “비장애인 중심의 신체적 기준과 의학이 강제하는 정신적 정상성을 넘어, 인간의 결핍과 다름은 어떻게 통제의 대상이 아니라 독특하고 새로운 예술적 표현의 형태로 존중받을 수 있을까?”라는 질문에 대한 중요한 통찰을 제공한다. 이 작품은 사회가 규정한 정상성에서 벗어난 사람들의 고통과 내면의 목소리 역시 제거되거나 교정되어야 할 대상이 아니라, 우리가 공감하고 경청해야 할 또 다른 예술적 표현임을 보여준다. 결과적으로 이 분석은 결핍과 다름을 결함이 아닌 고유한 개성으로 바라보고 그것이 예술을 더욱 풍부하게 만드는 가치임을 확인하게 한다.
 
-# funeral music
+# Funeral Music
 
 The song I would like to be played at my funeral is [*Fix You*](https://www.youtube.com/watch?v=k4V3Mo61fJM&list=RDk4V3Mo61fJM&start_radio=1) by Coldplay. I chose this song because it conveys a message of comfort and hope even in times of sorrow. The song is about giving strength to people who are going through difficult times and helping them find the courage to move forward again. After I pass away, I hope that my loved ones will not remain trapped in grief but will comfort one another and continue living their lives. In addition, the melody, which begins softly and gradually builds into a powerful and emotional climax, encourages reflection on life while leaving a warm and lasting impression. For these reasons, I would like this song to bring comfort and hope to those who remember me in my final moments.
 
