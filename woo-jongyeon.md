@@ -32,7 +32,7 @@ ICD: M45, F33
 
 *YouTube Link: https://youtu.be/cBiqltuGT88?si=Iz8Uxe7bbTc2LNOy*
 
-*If I could choose a song for my funeral, I would choose "Now Goodbye" by 015B. The song expresses a farewell, but it is not only sad. Its warm melody and message of gratitude make it a meaningful choice. I hope people will remember the good memories we shared and continue their lives with hope after listening to this song.*
+*If I could choose a song to be played at my funeral, I would choose "Now Goodbye" by 015B. Although the song is about parting, it does not focus solely on sadness or loss. Instead, its warm melody and heartfelt lyrics convey gratitude for the time spent together and encouragement for those who remain. I believe a funeral should not only be a moment of mourning but also an opportunity to reflect on meaningful memories and relationships. This song expresses a gentle farewell rather than despair, which is why it resonates with me. Through its comforting atmosphere, I hope the people attending my funeral would remember the positive moments we shared rather than dwell only on grief. I would like them to feel thankful for the experiences we had together and to continue pursuing their own lives with hope and courage. For these reasons, I think "Now Goodbye" would be a meaningful and appropriate song to accompany my final farewell.*
 
 
 # 믿는 자
@@ -61,4 +61,4 @@ ICD: M45, F33
 
 *유튜브 링크: https://youtu.be/cBiqltuGT88?si=Iz8Uxe7bbTc2LNOy*
 
-*만약 내 장례식에서 연주될 음악을 고른다면 015B의 이젠 안녕을 선택할 것이다. 이 곡은 이별을 노래하지만 단순히 슬프기만 하지 않고, 따뜻한 멜로디와 감사의 마음을 담고 있다. 이 노래를 통해 사람들이 나와의 좋은 추억을 떠올리며 앞으로의 삶을 희망적으로 살아가기를 바란다.*
+*만약 내 장례식에서 연주될 음악을 고른다면 015B의 「이젠 안녕」을 선택할 것이다. 이 곡은 이별을 노래하고 있지만 단순히 슬픔과 상실감만을 전달하지 않는다. 따뜻한 멜로디와 진심 어린 가사는 함께했던 시간에 대한 감사와 남겨진 사람들을 향한 응원의 메시지를 담고 있다. 나는 장례식이 단순히 죽음을 슬퍼하는 자리가 아니라, 한 사람의 삶과 소중한 관계를 되돌아보는 시간이 되어야 한다고 생각한다. 이 곡은 절망적인 이별이 아니라 담담하고 따뜻한 작별 인사를 전한다는 점에서 더욱 의미 있게 다가온다. 그래서 내 장례식에서도 사람들이 슬픔에만 머무르기보다 나와 함께했던 좋은 기억들을 떠올렸으면 한다. 또한 함께했던 시간에 감사함을 느끼고, 각자의 삶을 희망적으로 살아갈 힘을 얻기를 바란다. 이러한 이유에서 「이젠 안녕」은 나의 마지막 인사를 전하기에 가장 적절한 곡이라고 생각한다.*
