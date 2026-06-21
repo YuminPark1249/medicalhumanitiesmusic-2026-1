@@ -8,24 +8,36 @@ ICD: 1C64
 
 # Rent
 
-The musical Rent, which premiered in 1996, is a masterpiece created entirely by Jonathan Larson (1960–1996), who wrote the music, lyrics, and book. Set in New York's East Village in the early 1990s, it depicts the devastation of AIDS threatening impoverished artists. The physical decline experienced by the characters is manifested through severe chills, fevers, and wasting syndrome, which causes rapid weight loss. This is evidenced by Mimi constantly shivering from the cold and the once-vibrant Angel rapidly collapsing and dying. In particular, the beep of the digital pager—signaling the time to take AZT, the AIDS medication of the era—audibly drives home that the disease is a physical intruder, constantly encroaching upon the patients' bodily control and daily lives.
-In particular, the two musical axes chosen for this work, rock and chorus, are interpreted respectively as a physical energy resilient against the erosion of illness and a collective cry for human dignity that shatters isolation. Consequently, they bridge the gap between medical despair and an enduring vitality and collective solidarity.
-Roger’s "One Song Glory" desperately captures the finitude of time felt by an AIDS patient. Crying out, "One song before I go... Glory in a song that rings true," this number is a rock ballad featuring raw electric guitars and explosive drum beats at the forefront. This explosive energy signifies a fierce physical resistance, a refusal to surrender one's soul to the virus. Through this song, Roger, who had been locked away in his room awaiting death, unleashes his desire to prove he is alive, ultimately opening his door to accept Mimi’s heart and undergoing a psychological transformation that connects him with others.
-[Live performance of 'One Song Glory'](https://www.youtube.com/watch?v=u1RCoIJD5JU)
-On the other hand, "Will I," sung at an AIDS support group meeting, takes the form of a canon with a polyphonic structure. It begins as a faint solo by a single individual expressing the fear of death and alienation, but possesses the structural characteristic of expanding into a grand harmony as the voices of other patients layer on top of one another. Through this song, the patients erase the social isolation of fearing they will die alone and neglected, transforming their dread into a will to live. This communal solidarity does not crumble even in the face of Angel's death later in the show; instead, it culminates in a practical transformation where they embrace the value of "No day but today," affirming life in every moment and standing together.
+Premiered in 1996, Jonathan Larson’s musical Rent is set in New York’s East Village during the early 1990s, capturing the lives of impoverished artists and the devastation of the AIDS epidemic. In the society of that era, an AIDS diagnosis was far more than a mere medical prognosis; it was a cruel 'social punishment' accompanied by profound stigma and animosity. This phenomenon can be understood through Michel Foucault’s concepts of the 'medical gaze' and normativity. Rather than being recognized as subjects with unique lives, patients were treated as an 'abnormal' pathology that needed to be controlled and isolated.
 
-In this work, music exposes the violent disruption that HIV/AIDS inflicts on the body and daily life, yet it brings private suffering into the public sphere through explosive and communal genres like rock and choral singing. By not confining illness to mere medical despair but elevating it into a collective outcry for life and dignity, Rent serves as a powerful testament to how art can become the patient's voice and facilitate social healing.
+Confronting this oppressive societal gaze and physical suffering, the production portrays 'individual resistance' through the medium of rock music. "One Song Glory," sung by the character Roger, desperately captures the agonizing sense of finite time experienced by an AIDS patient. While physical pain is notoriously difficult to objectify through language, as Andreas Dorschel insightfully noted, "pain is conquered when stylized into melody." Driven by a raw electric guitar and explosive drum beats, this rock ballad serves as a physical resistance—a refusal to surrender one’s soul to either the virus or societal prejudice. It stands as an autonomous declaration, reclaiming unutterable pain through the power of music.
+[Live performance of 'One Song Glory'](https://www.youtube.com/watch?v=u1RCoIJD5JU)
+
+Furthermore, an individual’s resistance expands into 'collective solidarity' through the song 'Will I,' performed at an AIDS support group. This serves as a magnificent realization of an 'illness narrative.' The musical number begins as a solitary solo, but it soon evolves into rich harmony as the voices of other patients layer over one another. Through this chorus, the patients break free from the shackles of an objective 'disease' to construct a subjective, communal 'narrative.'
+
+From a medical humanities perspective, Rent extends the patients' illness narratives from the stage into the audience through powerful rock music and polyphonic choruses. In doing so, it prompts the audience to reframe individuals with AIDS—shifting their perception from 'objects of stigma trapped under a medical gaze' to 'dignified human beings living for today, just like us.' Ultimately, Rent demonstrates how music can serve as a language of resistance to dismantle social stigma, reshaping public perception of illness and fostering healing on a societal level.
 
 <img width="500" height="300" alt="image of Rent" src="https://github.com/user-attachments/assets/8e89fa98-755e-4aba-84e5-719a3d8de7b8" />
+
+# Music I wish to have played at my funeral
+
+The song "Remember Me" from the movie Coco possesses a magical power that frames death not as an eternal goodbye, but as a "connection of memories," which is why it was chosen as a funeral piece. This music sounds like a tender final wish from the departed, whispered to those left behind: "Even if I travel far away, my heart will always be with you, so please remember me whenever you hear this music." It beautifully mirrors the movie's core message—that even though our physical bodies may vanish, as long as the living cherish and keep those memories alive in their hearts, our existence will never truly fade away.
+[Music of 'Remember me'](https://www.youtube.com/watch?v=KP_XkN2v7OM)
 
 # 렌트
 
-1996년에 초연된 뮤지컬 '렌트'는 조나단 라슨(Jonathan Larson, 1960~1996)이 작곡, 작사, 대본을 모두 도맡아 창작한 작품입니다. 1990년대 초 뉴욕 이스트 빌리지를 배경으로 가난한 예술가들을 위협하는 에이즈의 참상을 다룹니다. 극 중 인물들이 겪는 신체적 쇠약은 극심한 오한과 발열, 체중이 급격히 감소하는 소모성 증후군 등으로 구체화됩니다. 항상 추위에 떠는 미미의 모습이나 활기찼던 엔젤이 급격히 쓰러져 사망에 이르는 과정이 이를 증명하며, 특히 당시 에이즈 치료제인 AZT 복용 시간을 알리는 디지털 호출기의 비프(Beep)음은 질병이 환자의 신체 통제력과 일상을 시시각각 잠식하는 물리적 침입자임을 청각적으로 각인시킵니다.
-특히 작품이 선택한 '록'과 '합창'이라는 두 가지 음악적 축은 각각 질병에 침식되지 않는 신체적 에너지와 고립을 깨는 인간 존엄성의 집단적 외침으로 해석되면서 의학적 절망을 넘어서는 생명력과 집단적 연대로 이어지게 됩니다.
-로저가 부르는 "One Song Glory"는 에이즈 환자가 느끼는 시간의 유한성을 절박하게 노래합니다. "내가 떠나기 전, 단 하나의 위대한 노래... 진실처럼 울려 퍼질 노래 속의 영광"이라고 부르짖는 이 넘버는 거친 일렉트릭 기타와 폭발적인 드럼 비트가 전면에 나서는 록 발라드이며 폭발적인 에너지는 바이러스에 영혼을 내어주지 않겠다는 격렬한 신체적 저항을 뜻합니다. 골방에 갇혀 죽음만을 기다리던 로저는 이 노래를 통해 살아있음을 증명하려는 열망을 터뜨리고, 비로소 방문을 열어 미미의 마음을 받아들이며 타인과 연결되는 심리적 변화를 맞이합니다.
-['One Song Glory'의 공연 영상](https://www.youtube.com/watch?v=u1RCoIJD5JU)
-반면 에이즈 환자 모임에서 불리는 'Will I'는 다성 음악 구조의 돌림노래 형식을 취합니다. 죽음과 소외에 대한 두려움을 담은 한 개인의 가냘픈 독창으로 시작되지만, 이내 다른 환자들의 목소리가 겹겹이 쌓이며 웅장한 화성으로 확장되는 구조적 특성을 가집니다. 이 노래를 통해 환자들은 홀로 쓸쓸히 죽어갈 것이라는 사회적 고립감을 지워내고, 두려움을 삶에 대한 의지로 변화시킵니다. 이 공동체적 연대는 후반부 엔젤의 죽음 앞에서도 무너지지 않고, "오직 오늘뿐(No day but today)"이라는 가치를 깨달으며 매 순간의 삶을 긍정하고 연대하는 실천적 변화로 결실을 맺습니다.
+1996년에 초연된 조나단 라슨(Jonathan Larson)의 뮤지컬 '렌트'는 1990년대 초 뉴욕 이스트 빌리지를 배경으로 가난한 예술가들의 삶과 에이즈(AIDS)의 참상을 다룹니다. 당시 사회에서 에이즈는 단순한 의학적 선고를 넘어, 낙인과 혐오가 뒤따르는 가혹한 '사회적 형벌'이었습니다. 이는 미셸 푸코의 '의학적 시선'과 규범성의 개념으로 설명할 수 있습니다. 환자들은 고유한 삶을 가진 주체라기보다 통제하고 격리해야 할 '비정상적' 병리로 취급되었습니다.
 
-작품 속에서 음악은 에이즈라는 질병이 몸과 일상에 가하는 폭력적인 단절을 있는 그대로 노출하면서도, 록과 합창이라는 폭발적이고 연대적인 장르를 통해 개인의 고립된 고통을 광장으로 끌어냅니다. 이는 질병을 단순히 의학적 절망으로 가두지 않고, 살고자 하는 신체적 에너지와 인간 존엄성에 대한 집단적인 외침으로 승화시켰다는 점에서, 예술이 어떻게 환자의 언어가 되어 사회적 치유를 이끌어낼 수 있는지를 보여주는 묵직한 증명이라고 생각합니다.
+이러한 억압적인 사회적 시선과 신체적 고통에 맞서, 작품은 '록' 음악을 통해 '개인의 저항'을 그려냅니다. 로저가 부르는 "One Song Glory"는 에이즈 환자가 느끼는 시간의 유한성을 절박하게 노래합니다. 육체적 고통은 언어로 대상화되기 어렵지만, 안드레아스 도르쉘의 통찰처럼 "선율로 양식화될 때 고통은 정복"됩니다. 거친 일렉트릭 기타와 폭발적인 드럼 비트가 전면에 나서는 록 발라드는 바이러스와 세상의 편견에 영혼을 내어주지 않겠다는 신체적 저항이며, 언어화할 수 없는 고통을 음악으로 쟁취해 내는 주체적인 선언입니다.
+['One Song Glory'의 공연 영상](https://www.youtube.com/watch?v=u1RCoIJD5JU)
+
+나아가 개인의 저항은 에이즈 환자 모임에서 불리는 'Will I'를 통해 '집단의 연대'로 확장되며, 이는 '질환서사'의 훌륭한 구현입니다. 이 넘버는 한 개인의 독창으로 시작되지만, 이내 다른 환자들의 목소리가 겹겹이 쌓이며 화성으로 진화합니다. 이 합창을 통해 환자들은 객관적 '질환'의 굴레를 벗어나, 주관적이고 공동체적인 '서사'를 완성해 냅니다.
+
+의료인문학적 관점에서 이 작품은 무대 위 환자들의 질환서사를 강렬한 록과 다성적인 합창을 통해 객석으로 확장시킴으로써, 관객들로 하여금 에이즈 환자를 '의학적 시선에 갇힌 혐오의 대상'이 아닌 '우리와 같이 오늘을 살아가는 존엄한 인간'으로 다시 보게 만듭니다. '렌트'는 음악이 어떻게 사회적 낙인을 걷어내는 저항의 언어가 되고, 나아가 관객의 질병 인식까지 변화시켜 사회적 차원의 치유를 이끌어낼 수 있는지를 보여줍니다.
 
 <img width="500" height="300" alt="image of Rent" src="https://github.com/user-attachments/assets/8e89fa98-755e-4aba-84e5-719a3d8de7b8" />
+
+# 장례식에서 연주되길 희망하는 음악
+
+영화 ‘코코’의 OST ‘Remember Me’는 죽음을 영원한 이별이 아닌 ‘기억의 연결’로 바라보게 만드는 마법 같은 힘이 있어 장례식 음악으로 선정하게 되었습니다. 이 곡은 “내가 멀리 떠나더라도 내 마음은 언제나 너와 함께 있으니 음악을 들을 때마다 나를 기억해 달라”는 고인의 다정한 유언처럼 들리는 음악입니다. 물리적인 육신은 사라질지라도 남은 이들이 고인을 마음속에 간직하고 추억하는 한, 그 존재는 결코 소멸하지 않는다는 영화의 메시지를 그대로 투영하고 있습니다.
+['Remember me'의 음악](https://www.youtube.com/watch?v=KP_XkN2v7OM)
